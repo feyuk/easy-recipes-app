@@ -17,10 +17,10 @@ Discover easy-to-make recipes and save as favorites!
 From your command line:
 ```bash
 # Clone this repository
-$ git clone https://github.com/feyuk/developer-colors
+$ git clone https://github.com/feyuk/easy-recipes
 
 # Go into the repository
-$ cd developer-colors
+$ cd easy-recipes
 
 # Install dependencies
 $ npm install
