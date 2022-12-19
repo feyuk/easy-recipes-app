@@ -5,7 +5,7 @@
 <h4 align="center">A  Mobile app built on top of <a href="https://reactnative.dev/" target="_blank">React Native</a>.</h4>
 
 <p align="center">
-  <img src="[[https://res.cloudinary.com/institutotrader/image/upload/v1665669792/0.%20Fernando.com/project-2.webp]" />
+  <img src="https://res.cloudinary.com/institutotrader/image/upload/v1665669792/0.%20Fernando.com/project-2.webp" />
 </p>
 
 ## Description
