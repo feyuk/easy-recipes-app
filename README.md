@@ -1,7 +1,6 @@
-# easy-recipes
 <h1 align="center">
   <br>
-  Developer Colors
+  Easy Recipes
 </h1>
 <h4 align="center">A  Mobile app built on top of <a href="https://reactnative.dev/" target="_blank">React Native</a>.</h4>
 
