@@ -34,8 +34,5 @@ $ npm start
 
 MIT
 
----
 
-> Website: [fernandoyukio.com](https://fernandoyukio.com) &nbsp;&middot;&nbsp;
-> GitHub: [@feyuk](https://github.com/feyuk) &nbsp;&middot;&nbsp;
 
