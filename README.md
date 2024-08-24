@@ -10,7 +10,9 @@
 
 ## Description
 
-Discover easy-to-make recipes and save as favorites!
+- A user-friendly mobile application built with React Native that allows users to explore, search, and save their favorite recipes.
+- Features include a searchable recipe database, detailed cooking instructions, ingredient lists, and the ability to create personalized recipe collections. 
+- This project demonstrates the use of modern frontend development practices, including state management with Context API, seamless navigation with React Navigation, and efficient codebase organization.
 
 ## How To Use
 
