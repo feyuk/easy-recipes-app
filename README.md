@@ -2,7 +2,7 @@
   <br>
   Easy Recipes
 </h1>
-<h4 align="center">A  Mobile app built on top of <a href="https://reactnative.dev/" target="_blank">React Native</a>.</h4>
+<h4 align="center">A  Mobile App built on top of <a href="https://reactnative.dev/" target="_blank">React Native</a>.</h4>
 
 <p align="center">
   <img src="https://res.cloudinary.com/institutotrader/image/upload/v1671457985/0.%20Fernando.com/comida-app.webp" />
